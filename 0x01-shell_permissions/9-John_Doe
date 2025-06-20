@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod u=rwx g=rx o=wx hello
-chmod +x 9-John_Doe
+chmod 735 hello
